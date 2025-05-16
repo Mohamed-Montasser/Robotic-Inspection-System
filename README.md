@@ -35,7 +35,7 @@ Both systems operate **independently** without exchanging data.
 
 ```bash
 1. Open Arduino IDE  
-2. Load `/arduino/robot_control.ino`  
+2. Load `/arduino/code.ino`  
 3. Upload to your Arduino board  
 4. Robot starts moving based on programmed logic
 ```
