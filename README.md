@@ -53,13 +53,14 @@ Both systems operate **independently** without exchanging data.
 ---
 
 ## 📂 Project Structure
-/
-├── arduino/
-│ └── robot_control.ino
-├── vision/
-│ └── vision_processing.py
-└── README.md
-
+```
+📦 FaceRecognitionSystem
+ ┣ 📂 arduino
+ ┃ ┣ 📜 robot_control.ino (for robot control)
+ ┣ 📂 vision
+ ┃ ┣📜 recognition.py (real-time recognition)
+ ┣ 📜 README.md
+```
 ---
 
 ### Software Requirements
