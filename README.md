@@ -19,14 +19,12 @@ Both systems operate **independently** without exchanging data.
 
 - **Platform:** Arduino microcontroller  
 - **Function:** Controls motors & movement with embedded code  
-- **Communication:** ❌ No connection with Vision System  
 - **Code Location:** `/arduino/`  
 
 ### 2️⃣ Vision System
 
 - **Platform:** PC / external processor  
 - **Function:** Runs vision algorithms on camera/video input  
-- **Communication:** ❌ No interaction with Arduino  
 - **Code Location:** `/vision/`  
 
 ---
